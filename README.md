@@ -1,15 +1,15 @@
 # Spellivery 魔法外送
 
-### ▶ [立即遊玩 Play now](https://rolanthhuang.github.io/hogwarts_delivery/)
+### ▶ [立即遊玩 Play now](https://rolanthhuang.github.io/spellivery/)
 
-`https://rolanthhuang.github.io/hogwarts_delivery/` · 手機、電腦都能直接玩 · Works on phone and desktop
+`https://rolanthhuang.github.io/spellivery/` · 手機、電腦都能直接玩 · Works on phone and desktop
 
 A jet-powered delivery car, a crooked magic academy, and five hungry customers.
 Fly bubble tea, chicken cutlets and stinky tofu across Crookspire Academy before the food gets cold.
 
 你開著噴射外送車，在一座歪七扭八的魔法學院送珍奶、雞排、臭豆腐。餐要熱，塔別撞。
 
-**Play:** [rolanthhuang.github.io/hogwarts_delivery](https://rolanthhuang.github.io/hogwarts_delivery/), or download `index.html` and open it in a browser.
+**Play:** [rolanthhuang.github.io/spellivery](https://rolanthhuang.github.io/spellivery/), or download `index.html` and open it in a browser.
 
 ## How to play 玩法
 
