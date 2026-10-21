@@ -1,6 +1,6 @@
 # Spellivery 魔法外送
 
-### ▶ [立即遊玩 Play now](https://rolanthhuang.github.io/spellivery/)
+### ▶ [玩 Spellivery 魔法外送 · Play Spellivery](https://rolanthhuang.github.io/spellivery/)
 
 `https://rolanthhuang.github.io/spellivery/` · 手機、電腦都能直接玩 · Works on phone and desktop
 
